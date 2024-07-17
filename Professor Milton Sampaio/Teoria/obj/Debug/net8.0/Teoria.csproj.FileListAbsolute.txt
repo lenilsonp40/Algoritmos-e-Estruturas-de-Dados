@@ -1,0 +1,15 @@
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\bin\Debug\net8.0\Teoria.exe
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\bin\Debug\net8.0\Teoria.deps.json
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\bin\Debug\net8.0\Teoria.runtimeconfig.json
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\bin\Debug\net8.0\Teoria.dll
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\bin\Debug\net8.0\Teoria.pdb
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.AssemblyInfoInputs.cache
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.AssemblyInfo.cs
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.sourcelink.json
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.dll
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\refint\Teoria.dll
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.pdb
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\Teoria.genruntimeconfig.cache
+C:\Estudos\Dev\GitHub\Algoritmos e Estruturas de Dados\Professor Milton Sampaio\Teoria\obj\Debug\net8.0\ref\Teoria.dll
