@@ -1,6 +1,6 @@
 ﻿using Teoria;
 
-//  Parei aula 05
+//  Parei aula 07
 
 
 //Array
@@ -24,6 +24,7 @@ numeros.Imprimir("Array invertido");
 
 // Listas - diferente do array a list é dinamica
 
+/*
 var numeros = new List<int>() { 8, 5, 1 , 3 , 4 };
 
 Console.WriteLine(value:"Imprimir List");
@@ -34,5 +35,18 @@ var outrosNumeros = new List<int>();
 outrosNumeros.Add(2);
 outrosNumeros.Add(5);
 
+*/
+
+
+// Strings
+
+string minhaString = "Olá Lenilson";
+var outraString = "1234";
+
+string nome = "Lenilson";
+
+string sobrenome = "Soares";
+
+string nomeCompleto = nome + "" + sobrenome;
 
 
